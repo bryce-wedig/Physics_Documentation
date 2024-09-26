@@ -1,0 +1,21 @@
+site_name: WashU Physics Department Documentation
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Printers: printers.md
+  - HPC Center: hpc.md
+  - Constribute: contribute.md
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem
+
+
+extra_javascript:
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+
+site_dir: 'public'
