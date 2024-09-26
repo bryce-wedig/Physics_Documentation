@@ -1,11 +1,15 @@
 site_name: WashU Physics Department Documentation
 theme:
   name: material
+  features:
+    - navigation.sections
+    - navigation.expand
 
 nav:
   - Home: index.md
   - Printers: printers.md
-  - HPC Center: hpc.md
+  - Physics Cluster: physics-hpc.md
+  - RIS: ris.md
   - Constribute: contribute.md
 
 markdown_extensions:

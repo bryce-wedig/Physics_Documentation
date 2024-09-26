@@ -1,4 +1,4 @@
-# HPC Center
+## HPC Center
 
 The High-Performance Computing (HPC) Center consists of an array of
 multi-processor computers (clusters). The HPC Center is open to everyone in the
@@ -101,3 +101,18 @@ This is a list of nodes and their host names:
     256GB RAM
 
 
+    
+
+## How to Connect
+
+You need to contact Sai Iyer (sai@physics.wustl.edu) for an account on the machines. When an account is setup for you, you can connect to any one of the machines listed above using `ssh` (taking jupiter as an example):
+
+```sh
+# ssh username@jupiter.physics.wustl.edu
+```
+
+where `username` is your username on the Physics machines. The same set of username and password gives you access to all of the machines.
+
+## Usage Guidelines
+
+[ TODO ]
