@@ -6,7 +6,7 @@ Physics Department. The purpose of the HPC Center is to provide
 high-availability and high-performance computing resources for physics research.
 Use of the clusters is free. The HPC Center operates under the authority of the
 Physics Department Computer Committee. If interested in an account or if you
-have a question, contact Sai Iyer ([sai@physics.wustl.edu](mailto:sai@physics.wustl.edu)) or Allen Wang ([allenw@wustl.edu](mailto:allenw@wustl.edu)).
+have a question, contact Sai Iyer ([sai@physics.wustl.edu](mailto:sai@physics.wustl.edu)).
 
 This is a list of nodes and their host names:
 

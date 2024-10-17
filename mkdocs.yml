@@ -10,7 +10,7 @@ nav:
   - Printers: printers.md
   - Physics Cluster: physics-hpc.md
   - RIS: ris.md
-  - Constribute: contribute.md
+  - Contribute: contribute.md
 
 markdown_extensions:
   - pymdownx.arithmatex:
